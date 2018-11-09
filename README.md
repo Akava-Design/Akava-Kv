@@ -2,5 +2,13 @@
 ![alt text](https://i.imgur.com/d4XojQ9.png)
 User oriented Kvantum theme
 
-## Recomendation
+## How to use
+1. Download the main branch and extract it to a folder.
+2. Use the Kvantum Manager and select the folder with extracted theme.
+3. Click on "Install this theme" and "Use this theme" in "Change/Delete Theme"
+
+## Recommendation
 Use ![Breeze-Blurred](https://github.com/alex47/BreezeBlurred) and [Akava colors](https://github.com/Akava-Design/Akava-Colors)
+
+## Warning
+Early development. Currently is alfa.
