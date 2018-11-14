@@ -1,10 +1,10 @@
 # Akava-Kv
-![](https://i.imgur.com/IFLK03X.png)
+![alt text](https://i.imgur.com/d4XojQ9.png)
 User oriented Kvantum theme
 
 ## How to use
 1. Download the main branch and extract it to a folder.
-2. Use the Kvantum Manager and select the folder with extracted theme.
+2. Use the Kvantum Manager and select the folder (Akava-Kv-master/Akava-Kv) with extracted theme.
 3. Click on "Install this theme" and "Use this theme" in "Change/Delete Theme"
 
 ## Recommendation

@@ -283,6 +283,25 @@ frame=true
 frame.element=progress-pattern
 interior.element=progress-pattern
 
+[ItemView]
+inherits=PanelButtonCommand
+text.margin=0
+frame.element=itemview
+interior.element=itemview
+frame.top=4
+frame.bottom=4
+frame.left=4
+frame.right=4
+text.margin.top=2
+text.margin.bottom=2
+text.margin.left=4
+text.margin.right=4
+text.normal.color=404040
+text.focus.color=#4AAFF7
+text.press.color=#f6f6f6
+text.toggle.color=#f6f6f6
+frame.expansion=6
+
 [Splitter]
 indicator.size=32
 
