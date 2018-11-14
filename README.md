@@ -1,5 +1,5 @@
 # Akava-Kv
-![alt text](https://i.imgur.com/d4XojQ9.png)
+![](https://i.imgur.com/IFLK03X.png)
 User oriented Kvantum theme
 
 ## How to use
