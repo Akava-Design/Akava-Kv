@@ -76,6 +76,10 @@ frame.patternsize=20
 [GeneralColors]
 dark.color=#2c2c2c
 tooltip.text.color=#2c2c2c
+alt.base.color=#2c2c2c
+base.color=#2c2c2c
+light.color=#5f677f
+window.text.color=#ffffffc8
 
 [Hacks]
 transparent_ktitle_label=true
