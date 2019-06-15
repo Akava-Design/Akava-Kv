@@ -11,4 +11,4 @@ User oriented Kvantum theme
 Use ![Breeze-Blurred](https://github.com/alex47/BreezeBlurred) and [Akava colors](https://github.com/Akava-Design/Akava-Colors)
 
 ## Warning
-Early development. Currently is alfa.
+Early development. Currently is alpha.
