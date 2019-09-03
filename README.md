@@ -8,7 +8,7 @@ User oriented Kvantum theme
 3. Click on "Install this theme" and "Use this theme" in "Change/Delete Theme"
 
 ## Recommendation
-Use ![Breeze-Blurred](https://github.com/alex47/BreezeBlurred) and [Akava colors](https://github.com/Akava-Design/Akava-Colors)
+Use [Breeze-Blurred](https://github.com/alex47/BreezeBlurred) and [Akava colors](https://github.com/Akava-Design/Akava-Colors)
 
 ## Warning
 Early development. Currently is alpha.
